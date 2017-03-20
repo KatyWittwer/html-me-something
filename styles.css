@@ -13,10 +13,7 @@ img {
     background-color: orange;
     color: white;
 }
-head {
-    text-align: center;
-    font-size: 16
-}
+
 article h2 {
     background : gray;
     color : #fff;
@@ -24,6 +21,13 @@ article h2 {
     margin-bottom : 1em;
     padding : 0.5em 1em;
 }
+#name {
+    font-size: 16
+    font-family: Courier, Arial;
+    background-color: navy;
+    color: white;
+}
+
 img {
     align: center;
     padding-top: 0;
